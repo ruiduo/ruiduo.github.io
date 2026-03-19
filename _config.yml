@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Richard Writes Sometimes
+title: Wit and Whimsy
 email: richard.zheng@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I write sometimes. Humorous essays and other peculiarities. 
