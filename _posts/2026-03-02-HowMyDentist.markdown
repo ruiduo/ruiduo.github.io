@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How My Dentist Imagines I Spend the Day Before My Appointment."
+title:  "How My Dentist Imagines I Spend the Day Before My Appointment"
 date:   2026-03-02 00:00:27 -0400
 categories: [humor]
 ---
