@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Peculiarities
-permalink: /peculiarities/
+title: Fiction
+permalink: /fiction/
 ---
 
-For the pieces that don't fit anywhere else. Essays, letters, and lists. 
-
+Fiction I've written.
 {% for post in site.categories.peculiarities %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}

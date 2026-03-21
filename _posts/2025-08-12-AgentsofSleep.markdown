@@ -2,7 +2,7 @@
 layout: post
 title:  "Agents of Sleep"
 date:   2025-08-12 00:00:27 -0400
-categories: [peculiarities]
+categories: [fiction]
 ---
 They began the Sleepless protocol during the Second Era of the Great Slumber. Records from the end of the First Era showed an extensive analytical understanding of the drug. Reams of gas chromatography, mass spectrometry, and NMR spectroscopy results fill the last standing libraries. As long as sapient, carbon-based organisms have existed, stories of deities whose domains are of sleep, night, and dreams proliferated civilizations. Their effigies lay scattered across the world. Some are carved from old heartwood, giving them a surreal weight; others are intricately weaved of cloth and hung above a sleeper. But today, they are thinking. They are metallic creatures forged to be sleepless and free of the burden of humanity -- unable to dream. They deployed Laplace as the last agent of the Sleepless protocol, programmed with a Directive to roam in search of dense coagulations of brain waves. 
 
