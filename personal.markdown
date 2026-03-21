@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-Essays and Letters.
+Essays, Letters, and Lists.
 {% for post in site.categories.personal %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
